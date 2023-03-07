@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9ad4530-c1fe-4145-936e-95d47d02d862" name="Changes" comment="Test commit" />
+    <list default="true" id="e9ad4530-c1fe-4145-936e-95d47d02d862" name="Changes" comment="Add Task">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seminar_1/Seminar_1_HW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar_1/Seminar_1_HW.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678043935455</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Task">
+      <created>1678044676522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678044676522</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,6 +112,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
+    <MESSAGE value="Add Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Task" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GeekBrainsStudy$Seminar_1_HW.ic" NAME="Seminar_1_HW Coverage Results" MODIFIED="1678128600131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Seminar_1.*</FILTER>
+    </SUITE>
   </component>
 </project>
