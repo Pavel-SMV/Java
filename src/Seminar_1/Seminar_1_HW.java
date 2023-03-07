@@ -123,13 +123,16 @@ public class Seminar_1_HW {
         int[][] newArray = new int[5][5];
         for (int i = 0; i < newArray.length; i++) {
             for (int j = 0; j < newArray.length; j++) {
-                newArray[i][j] = 5;
-                System.out.print(newArray[i][j] + " ");
+                newArray[0][0] = 5;
+                newArray[1][1] = 5;
+                newArray[2][2] = 5;
+                newArray[3][3] = 5;
+                newArray[4][4] = 5;
+
+            System.out.print(newArray[i][j] + " ");
             }
             System.out.println();
         }
-
-
 
         return newArray;
     }
