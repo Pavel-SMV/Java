@@ -138,7 +138,7 @@ public class Seminar_1_HW {
             }
             System.out.println();
         }
-        System.out.println();
+
         return newArray;
 
     }
