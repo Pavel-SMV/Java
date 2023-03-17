@@ -37,7 +37,7 @@ public class Seminar_4_HW {
                //System.out.println(Arrays.toString(split));// сплит строки в массив
                 Integer.parseInt(split[1]);
                 saveKeys.add(split[1]);
-                scanner.nextLine();
+                if (scanner.nextLine().equals(split[1]));
                 System.out.println(split[0]);
 
 
