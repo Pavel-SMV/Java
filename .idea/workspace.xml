@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9ad4530-c1fe-4145-936e-95d47d02d862" name="Changes" comment="HW_2">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="e9ad4530-c1fe-4145-936e-95d47d02d862" name="Changes" comment="Final HW_Person">
+      <change afterPath="$PROJECT_DIR$/src/Person/Type/FAMALE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person/Type/MALE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminars/FinalHW.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,10 +22,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/Seminar_3_HW" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Seminar_2_HW" />
+        <entry key="$PROJECT_DIR$" value="Seminar_3_HW" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +36,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Seminars/Seminar_1_HW.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Seminars/Seminar_2_HW_1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Seminars/Seminar_2_HW_2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Seminars/Seminar_2_task1.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Seminars/Seminar_2_task2.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,9 +56,57 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Person.Type" />
+      <recent name="Seminars" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FinalHW">
+    <configuration name="FinalHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminars.FinalHW" />
+      <module name="GeekBrainsStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar_5_HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminars.Seminar_5_HW" />
+      <module name="GeekBrainsStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="seminar" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seminar" />
+      <module name="GeekBrainsStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FinalHW" />
+        <item itemvalue="Application.Seminar_5_HW" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,7 +130,56 @@
       <option name="project" value="LOCAL" />
       <updated>1678389182132</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add HW Seminar_2">
+      <created>1678467098789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678467098789</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First HW Task">
+      <created>1678709945993</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678709945993</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add 4 HW">
+      <created>1678993311465</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678993311465</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add 4 HW">
+      <created>1679078128050</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679078128050</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add 5 HW">
+      <created>1679510953659</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679510953659</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final HW">
+      <created>1680280384057</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680280384057</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final HW_Person">
+      <created>1680280645409</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680280645409</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,7 +196,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seminar 1+2" />
     <MESSAGE value="HW_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW_2" />
+    <MESSAGE value="Add HW Seminar_2" />
+    <MESSAGE value="First HW Task" />
+    <MESSAGE value="Add 4 HW" />
+    <MESSAGE value="Add 5 HW" />
+    <MESSAGE value="Final HW" />
+    <MESSAGE value="Final HW_Person" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final HW_Person" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GeekBrainsStudy$Seminar_1_HW.ic" NAME="Seminar_1_HW Coverage Results" MODIFIED="1678128600131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
