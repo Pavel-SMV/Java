@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9ad4530-c1fe-4145-936e-95d47d02d862" name="Changes" comment="Final HW_Person">
-      <change afterPath="$PROJECT_DIR$/src/Person/Type/FAMALE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person/Type/MALE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminars/FinalHW.java" afterDir="false" />
+    <list default="true" id="e9ad4530-c1fe-4145-936e-95d47d02d862" name="Changes" comment="HW_OOP_S1">
+      <change afterPath="$PROJECT_DIR$/src/Calk/CalculateComplex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calk/Calculating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calk/ComplexNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calk/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calk/ValuesNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warrior/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warrior/Battle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warrior/Bow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warrior/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warrior/Knife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warrior/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warrior/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warrior/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warrior/Throwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warrior/Waroirs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Warrior/Weapon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GeekBrainsStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GeekBrainsStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_HW_1/Kids.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_HW/Kids.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_HW_1/Parents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_HW/Parents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_HW_1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_HW/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_HW_1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_HW/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_HW_1/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_HW/Status.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +37,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -35,7 +57,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Calk/CalculateComplex.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Calk/Calculating.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Calk/ComplexNumbers.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Calk/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Calk/ValuesNumber.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Seminars/Seminar_1_HW.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Seminars/Seminar_2_HW_1.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Seminars/Seminar_2_HW_2.java" root0="FORCE_HIGHLIGHTING" />
@@ -46,27 +72,43 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MYpAfyZ6OIqZDCRMNlkyz4XruT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "full.screen.before.presentation.mode": "false",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Person.Type" />
       <recent name="Seminars" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FinalHW">
+  <component name="RunManager" selected="Application.Calk.Main">
+    <configuration name="Calk.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calk.Main" />
+      <module name="GeekBrainsStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Calk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FinalHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminars.FinalHW" />
       <module name="GeekBrainsStudy" />
@@ -80,12 +122,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Seminar_5_HW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminars.Seminar_5_HW" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GeekBrainsStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_HW.Program" />
       <module name="GeekBrainsStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seminars.*" />
+          <option name="PATTERN" value="OOP_HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Warrior.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Warrior.Main" />
+      <module name="GeekBrainsStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Warrior.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,8 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calk.Main" />
+        <item itemvalue="Application.Warrior.Main" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.FinalHW" />
-        <item itemvalue="Application.Seminar_5_HW" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +244,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680280645409</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Final HW">
+      <created>1680280798724</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680280798724</updated>
+    </task>
+    <task id="LOCAL-00011" summary="HW_OOP_S1">
+      <created>1680361441185</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680361441185</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,9 +279,25 @@
     <MESSAGE value="First HW Task" />
     <MESSAGE value="Add 4 HW" />
     <MESSAGE value="Add 5 HW" />
-    <MESSAGE value="Final HW" />
     <MESSAGE value="Final HW_Person" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final HW_Person" />
+    <MESSAGE value="Final HW" />
+    <MESSAGE value="HW_OOP_S1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_OOP_S1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Calk/ComplexNumbers.java</url>
+          <line>5</line>
+          <properties class="Calk.ComplexNumbers" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

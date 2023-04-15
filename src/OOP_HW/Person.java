@@ -1,4 +1,4 @@
-package OOP_HW_1;
+package OOP_HW;
 
 public class Person {
 
